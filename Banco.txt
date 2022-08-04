@@ -1,0 +1,11 @@
+/*CREATE TABLE roupas(
+    
+	  modelo  CHAR (50),
+	  discricao CHAR (50),
+	  loja  CHAR (50)
+  
+
+
+)*/
+
+SELECT *FROM roupas
